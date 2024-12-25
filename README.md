@@ -1,6 +1,6 @@
 # A C++ Library for Endemic OT Using CRYSTALS-Kyber
 
-This library provides mainly an implementation of the Kyber-based endemic OT (or MROT) protocol, which is proposed by Masny and Rindal in their CCS 2019 paper [[eprint](https://eprint.iacr.org/2019/706)]. This work used codes from [LibOTe](https://github.com/osu-crypto/libOTe).
+This library provides mainly an implementation of the Kyber-based endemic OT (or MROT) protocol, which is proposed by Masny and Rindal in their CCS 2019 paper [[eprint](https://eprint.iacr.org/2019/706)].
 
 ## Prerequisites
 
