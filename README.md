@@ -1,5 +1,7 @@
 # Endemic OT Kyber
 
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+
 A C++ library for endemic OT using CRYSTALS-Kyber.
 
 This library provides mainly an implementation of the Kyber-based endemic OT (or MROT) protocol, which is proposed by Masny and Rindal in their CCS 2019 paper [[eprint](https://eprint.iacr.org/2019/706)].
